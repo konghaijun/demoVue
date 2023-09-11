@@ -3,10 +3,10 @@
     <basic-container>
       <third-register></third-register>
       <p style="text-align: center;">
-        <img src="https://img.shields.io/badge/Release-V3.6.0-green.svg" alt="Downloads"/>
+        <img src="https://img.shields.io/badge/Release-V3.7.0-green.svg" alt="Downloads"/>
         <img src="https://img.shields.io/badge/JDK-1.8+-green.svg" alt="Build Status"/>
         <img src="https://img.shields.io/badge/Spring%20Cloud-2021-blue.svg" alt="Coverage Status"/>
-        <img src="https://img.shields.io/badge/Spring%20Boot-2.7.10.RELEASE-blue.svg" alt="Downloads"/>
+        <img src="https://img.shields.io/badge/Spring%20Boot-2.7.15-blue.svg" alt="Downloads"/>
         <a target="_blank" href="https://bladex.cn">
           <img src="https://img.shields.io/badge/Saber%20Author-Small%20Chill-ff69b4.svg" alt="Downloads"/>
         </a>

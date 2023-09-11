@@ -7,10 +7,10 @@
         <img src="https://img.shields.io/badge/JDK-1.8+-green.svg" alt="Build Status"/>
         <img src="https://img.shields.io/badge/Spring%20Cloud-2021-blue.svg" alt="Coverage Status"/>
         <img src="https://img.shields.io/badge/Spring%20Boot-2.7.10.RELEASE-blue.svg" alt="Downloads"/>
-        <a target="_blank" href="https://bladex.vip">
+        <a target="_blank" href="https://bladex.cn">
           <img src="https://img.shields.io/badge/Saber%20Author-Small%20Chill-ff69b4.svg" alt="Downloads"/>
         </a>
-        <a target="_blank" href="https://bladex.vip">
+        <a target="_blank" href="https://bladex.cn">
           <img src="https://img.shields.io/badge/Copyright%20-@BladeX-%23ff3f59.svg" alt="Downloads"/>
         </a>
       </p>
@@ -31,7 +31,7 @@
             <div>3.基于稳定生产的商业项目升级优化而来，更加贴近企业级的需求</div>
             <div>4.追求企业开发更加高效，部署更加方便，生产更加稳定</div>
             <div>5.GVP-码云最有价值开源项目</div>
-            <div>6.BladeX授权地址:<a target="_blank" href="https://bladex.vip/#/vip">点击授权</a></div>
+            <div>6.BladeX授权地址:<a target="_blank" href="https://bladex.cn/#/vip">点击授权</a></div>
           </el-collapse-item>
           <el-collapse-item title="为何需要BladeX" name="3">
             <div>1.经历过较长的线上生产，积累了很多企业痛点的解决方案</div>
@@ -92,19 +92,19 @@
             <el-divider content-position="right"><i class="el-icon-star-off"/></el-divider>
             <span>官网地址</span>
             <el-divider direction="vertical"/>
-            <span><el-link href="https://bladex.vip" target="_blank"
-                           type="primary">https://bladex.vip</el-link></span>
+            <span><el-link href="https://bladex.cn" target="_blank"
+                           type="primary">https://bladex.cn</el-link></span>
             <el-divider content-position="right"><i class="el-icon-star-off"/></el-divider>
             <span>社区地址</span>
             <el-divider direction="vertical"/>
-            <span><el-link href="https://sns.bladex.vip" target="_blank"
-                           type="primary">https://sns.bladex.vip</el-link></span>
+            <span><el-link href="https://sns.bladex.cn" target="_blank"
+                           type="primary">https://sns.bladex.cn</el-link></span>
             <el-divider content-position="right"><i class="el-icon-star-off"/></el-divider>
             <span>获取文档</span>
             <el-divider direction="vertical"/>
             <span class="tag-group">
                 <el-tag type="success" style="cursor: pointer"
-                        onclick="window.open('https://sns.bladex.vip/note/view/1.html')">免费版</el-tag>
+                        onclick="window.open('https://sns.bladex.cn/note/view/1.html')">免费版</el-tag>
                 <el-divider direction="vertical"/>
                 <el-tag type="danger" style="cursor: pointer"
                         onclick="window.open('https://www.kancloud.cn/@smallchill')">收费版</el-tag>
@@ -117,7 +117,7 @@
                         onclick="window.open('https://gitee.com/smallc/SpringBlade')">开源版</el-tag>
                 <el-divider direction="vertical"/>
                 <el-tag type="danger" effect="dark" style="cursor: pointer"
-                        onclick="window.open('https://bladex.vip/#/vip')">商业版</el-tag>
+                        onclick="window.open('https://bladex.cn/#/vip')">商业版</el-tag>
               </span>
           </div>
         </basic-container>

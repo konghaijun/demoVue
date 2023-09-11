@@ -125,6 +125,19 @@
       <el-row>
         <basic-container>
           <el-collapse v-model="logActiveNames" @change="handleChange">
+            <el-collapse-item title="3.7.0发布 新增Token加密传输功能" name="34">
+              <div>1.升级 SpringCloud 至 2021.0.8</div>
+              <div>2.升级 SpringBoot 至 2.7.15</div>
+              <div>3.升级 Mybatis-Plus 至 3.5.3.2</div>
+              <div>4.升级 Mybatis-Plus-Generator 至 3.5.3.2</div>
+              <div>5.升级 Druid 至 1.2.19</div>
+              <div>6.升级 Avue2 至 2.10.16</div>
+              <div>7.升级 Avue3 至 3.2.19</div>
+              <div>8.新增 Token加密传输功能，提升系统安全性</div>
+              <div>9.新增 后端对Token加密增加强制校验的功能</div>
+              <div>10.优化 INode树形节点封装，增加泛型支持</div>
+              <div>11.优化 Sql防注入的功能</div>
+            </el-collapse-item>
             <el-collapse-item title="3.6.0发布 基于vue3的前端架构正式发布" name="33">
               <div>1.升级 SpringCloud 至 2021.0.6</div>
               <div>2.升级 SpringBoot 至 2.7.10</div>
@@ -484,7 +497,7 @@
     data() {
       return {
         activeNames: ['1', '2', '3', '5'],
-        logActiveNames: ['33']
+        logActiveNames: ['34']
       };
     },
     computed: {

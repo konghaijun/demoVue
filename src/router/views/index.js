@@ -48,4 +48,18 @@ export default [{
     component: () =>
       import( /* webpackChunkName: "views" */ '@/views/user/info')
   }]
-}]
+},
+{
+  path: '/test',
+  component: Layout,
+  redirect: '/test/demo',
+  children: [{
+    path: 'demo',
+    name: '测试',
+    component: () =>
+      import( /* webpackChunkName: "views" */ '@/views/test/demo')
+  }]
+}
+
+
+]
